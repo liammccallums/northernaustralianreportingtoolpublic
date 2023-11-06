@@ -29,6 +29,11 @@ It is important to note that Australia has been free of FMD since 1872 due to st
 ## Contingencies
 The project is less a development of existing approaches, than a new approach using modern, robust technologies with considerable complexity. The very short time frame dictates we can provide a PoC with only limited testing and integration with agency systems. These aspects will need to be followed up outside this PoC project. While the PoC is technically highly achievable, the short time frame creates a signficant risk of milestone over-run. A risk management framework will be used through the system build and testing that captures and assesses risk via a Risk Management Framework. 
 
+## Getting Involved
+Instructions for accessing the reporting tool web form is outlined below :
+
+![image](https://github.com/aidarwin/northernaustralianreportingtoolpublic/assets/103006306/21ab08df-41b9-4e4b-9ee6-7e117771796b)
+
 ## Solution Architecture AI
 
 Leveraging the experience in plant disease and pest detection as well as the Healthy Country AI Project is a Custom Vision AI service that provides the platform to label data and transfer human intelligence to machines.  The taxomonies for these Custom Vision AI models include two sets of models for labelling :
