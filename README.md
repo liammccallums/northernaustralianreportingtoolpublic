@@ -34,6 +34,83 @@ Instructions for accessing the reporting tool web form is outlined below :
 
 ![image](https://github.com/aidarwin/northernaustralianreportingtoolpublic/assets/103006306/21ab08df-41b9-4e4b-9ee6-7e117771796b)
 
+## About the Reporting Tool
+
+The reporting tool is an initiative of Northern Territory Cattlemen’s Association funded by the Northern Hub designed to report simple information and images of suspect cattle disease events to support decision making for investigations, rule out emergency animal diseases (EADs) to support Australia’s disease free status for cattle trade and to ensure EADs are detected as early as possible. 
+
+## Reporting Tool Trial
+The reporting tool has been developed as a proof-of-concept and will undergo a trial phase with a small group of northern cattle producers. The trial will take place during November 2023 and be organised through the state and territory cattle industry organisations. Trial participants will be asked to provide feedback on the reporting tool at the end of the trial period.
+
+The reporting tool requires the internet connection to submit reports. Images of the cattle should be captured on the phone and the report completed when there is internet coverage. The tool has an image recognition feature to target LSD and FMD symptoms, however all cattle health problems can be reported with photos.
+
+Trial participants are asked to submit as many reports as possible during the trial period to test the tool, however if you are concerned and looking to have the problem investigated, contact your private vet, Regional Biosecurity office or the EAD Hotline on 1800 675 888 to discuss the problem. 
+
+## Getting Started 
+
+**Setting up phone for quick access to the Report Form**
+- Go to: https://www.ntca.agkonect.
+- For quick access on iOS (Apple), click on the share icon at the top right corner of the screen. This is the square box symbol with rounded edges and arrow pointing upwards. Scroll down and select "Add to Home Screen".
+- For quick acces on android, click on the three bar menu at the bottom right corner of the screen, select "Ädd page to", Select "Home screen" and click on "Ädd to Home Screen".
+
+**How to Complete a Report Form (Web-based)**
+1. Open Report Form on Home Screen or go to https://www.ntca.agkonect.com
+2. Complete the Report Form with:
+   
+What have you seen in cattle?
+- Select the problem which best describes the cattle disease event. You can select more than one problem
+- Enter the approximate number of cattle affected, number of cattle dead and number of cattle present in the paddock or yard
+- Select the type of cattle or approximate age
+- Upload the photo/s showing the problem. You can also upload video
+- In the Other comments box, describe any other information on the problem or leave the box blank
+- Enter the date the problem was seen
+
+Where were the affected cattle?
+- Enter the Property name
+- Enter the Property Identification Code (PIC) if known
+- Drag the red pin on the map to the location of the cattle or enter the location manually. It may help to tap on satellite to change the display of the map
+  
+Who?
+- Enter your contact deatils (name, email and phone number)
+- Select your role
+- Select the box "the property manager has consented to the submission of this report"
+   
+Select the I'm not a robot and press SUBMIT. You will receive a summary of your report when submitted.
+
+3. During the trial period, if you are concerned about the suspect cattle disease problem and looking to have it investigated, contact your private vet, Regional Biosecurity office or the Emergency Animal Disease (EAD) Hotline on 1800 675 888 to discuss the problem.
+
+4. Contact Sue Fitzpatrick or Malcolm Anderson for any Help using the reporting tool
+
+**Help**
+
+Email: Sue Fitzpatrick suefitzpatrick@farmbio.com.au  or Email: andovet1@bigpond.com
+
+ 
+## Reporting Cattle Disease
+
+Reporting animal diseases accurately is crucial for early detection, monitoring and controlling outbreaks. When filling out the reporting form:
+
+- Provide detailed information about the disease symptoms and affected animals
+- Specify the location (coordinates or address) of the suspect disease
+- Include any additional notes or observations that may be relevant in the "Other comments" box
+
+## Capturing Images
+
+Capturing clear and relevant images is essential for disease identification. Here are some tips for capturing images:
+
+- Ensure good lighting conditions for clear photos
+- Take multiple photos from different angles if necessary
+- Take close up images of lesions or symptoms
+- Include images of affected animals, symptoms, and the surrounding environment
+
+## Next Steps
+
+The producers who participate in the Trial during November 2023 will be asked to provide feedback on the report form usability to review features and modify as necessary to optimise performance. 
+
+A review of the proof-of-concept reporting tool project will be undertaken with Northern Territory Cattlemen's Association finalising the production to northern Australian producers.
+
+
+Thank you for participating in the trial for the Northern Australian Producer Reporting Tool! 
+
 ## Solution Architecture AI
 
 Leveraging the experience in plant disease and pest detection as well as the Healthy Country AI Project is a Custom Vision AI service that provides the platform to label data and transfer human intelligence to machines.  The taxomonies for these Custom Vision AI models include two sets of models for labelling :
